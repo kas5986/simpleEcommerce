@@ -1,0 +1,33 @@
+/*----------------------------------------------
+*
+*	Name	:	LongHorn Vapor
+*	Author	:	Syed Muhammad Shafiq
+*	URL		:	http://kas5986.elance.com
+*	Email	:	shafiq_shaheen@hotmail.com
+*
+
+This is use to import all stylesheets to one place
+
+*----------------------------------------------/
+
+/*Bootstrap*/
+
+@import "bootstrap.min.css";
+
+/*Font Awesome*/
+@import "font-awesome.css";
+
+/*visual editor*/
+@import "summernote.css";
+
+
+/*Custom Css */
+@import "bookblock.css";
+@import "demo4.css";
+@import "style.css";
+
+/*.logo {
+	margin: 0 auto;
+	text-align: center;
+}*/
+
